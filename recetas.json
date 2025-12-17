@@ -1,0 +1,17 @@
+{
+  "recetas_total": {
+    "receta": [
+      {
+        "id": "1",
+        "nombre": "Torta de Vainilla",
+        "porciones": 5,
+        "categoria": "Postre",
+        "ingredientes": [
+          { "id": 1, "nombre": "agua", "unidad": "ml", "cantidad": 750 },
+          { "id": 2, "nombre": "azúcar", "unidad": "gramos", "cantidad": 250 }
+        ],
+        "preparacion": "Mezclar ingredientes secos, añadir líquidos y hornear a 180°C por 45 min."
+      }
+    ]
+  }
+}
