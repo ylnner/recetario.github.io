@@ -15,7 +15,7 @@
       {
         "id": "2",
         "nombre": "Torta Húmeda de Chocolate",
-        "porciones": 12,
+        "porciones": 2,
         "categoria": "Postre",
         "ingredientes": [
         { "id": 1, "nombre": "Harina", "unidad": "gr", "cantidad": 500 },
