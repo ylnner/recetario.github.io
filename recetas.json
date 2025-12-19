@@ -11,7 +11,27 @@
           { "id": 2, "nombre": "azúcar", "unidad": "gramos", "cantidad": 250 }
         ],
         "preparacion": "Mezclar ingredientes secos, añadir líquidos y hornear a 180°C por 45 min."
-      }
+      }, 
+      {
+        "id": "2",
+        "nombre": "Torta Húmeda de Chocolate",
+        "porciones": 12,
+        "categoria": "Postre",
+        "ingredientes": [
+        { "id": 1, "nombre": "Harina", "unidad": "gr", "cantidad": 500 },
+        { "id": 2, "nombre": "Aceite", "unidad": "ml", "cantidad": 225 },
+        { "id": 3, "nombre": "Huevo", "unidad": "un", "cantidad": 4 },
+        { "id": 4, "nombre": "Bicarbonato", "unidad": "gr", "cantidad": 10 },
+        { "id": 5, "nombre": "Polvo Hornear", "unidad": "gr", "cantidad": 15 },
+        { "id": 6, "nombre": "Leche", "unidad": "ml", "cantidad": 500 },
+        { "id": 7, "nombre": "Limón o Vinagre", "unidad": "ml", "cantidad": 50 },
+        { "id": 8, "nombre": "Azúcar", "unidad": "gr", "cantidad": 500 },
+        { "id": 9, "nombre": "Cocoa", "unidad": "gr", "cantidad": 60 },
+        { "id": 10, "nombre": "Esencia Vainilla", "unidad": "ml", "cantidad": 3 }
+        { "id": 11, "nombre": "Esencia Vainilla", "unidad": "gr", "cantidad": 5 }
+        ],
+        "preparacion": "1. Mezclar la leche con el limón/vinagre y dejar reposar. 2. Batir huevos con azúcar y aceite. 3. Cernir ingredientes secos (harina, cocoa, bicarbonato, polvo de hornear). 4. Incorporar secos y líquidos alternando. 5. Hornear a 180°C por aproximadamente 45-60 minutos."
+        }
     ]
   }
 }
