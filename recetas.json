@@ -27,7 +27,7 @@
         { "id": 7, "nombre": "Limón o Vinagre", "unidad": "ml", "cantidad": 50 },
         { "id": 8, "nombre": "Azúcar", "unidad": "gr", "cantidad": 500 },
         { "id": 9, "nombre": "Cocoa", "unidad": "gr", "cantidad": 60 },
-        { "id": 10, "nombre": "Esencia Vainilla", "unidad": "ml", "cantidad": 3 }
+        { "id": 10, "nombre": "Esencia Vainilla", "unidad": "ml", "cantidad": 3 },
         { "id": 11, "nombre": "Esencia Vainilla", "unidad": "gr", "cantidad": 5 }
         ],
         "preparacion": "1. Mezclar la leche con el limón/vinagre y dejar reposar. 2. Batir huevos con azúcar y aceite. 3. Cernir ingredientes secos (harina, cocoa, bicarbonato, polvo de hornear). 4. Incorporar secos y líquidos alternando. 5. Hornear a 180°C por aproximadamente 45-60 minutos."
