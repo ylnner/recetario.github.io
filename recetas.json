@@ -31,7 +31,7 @@
         { "id": 11, "nombre": "Esencia Vainilla", "unidad": "gr", "cantidad": 5 }
         ],
         "preparacion": "1. Mezclar la leche con el limón/vinagre y dejar reposar. 2. Batir huevos con azúcar y aceite. 3. Cernir ingredientes secos (harina, cocoa, bicarbonato, polvo de hornear). 4. Incorporar secos y líquidos alternando. 5. Hornear a 180°C por aproximadamente 45-60 minutos."
-        },
+      },
       {
         "id": "3",
         "nombre": "Wawa de 600gr",
